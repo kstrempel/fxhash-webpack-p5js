@@ -7,7 +7,7 @@ This template is based on the fxHash webpack boilerplate, but has p5js implement
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/squintdev/fxhash-webpack-p5js.git
+   git clone https://github.com/kstrempel/fxhash-webpack-p5js.git
    ```
 2. Install NPM packages
    ```sh
